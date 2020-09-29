@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: proceedtobuymicroservicerepo
-        image: productmicroservicecr.azurecr.io/proceedtobuymicroservicerepo:latest
+        image: retailproductcr.azurecr.io/proceedtobuymicroservicerepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
