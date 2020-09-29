@@ -13,7 +13,7 @@ namespace ProceedToBuy.Controllers
     public class ProceedToBuyController : ControllerBase
     {
        
-        Uri baseAddress = new Uri("http://40.76.132.82");
+        Uri baseAddress = new Uri("http://20.62.153.233/");
         HttpClient client;
 
         public ProceedToBuyController()
